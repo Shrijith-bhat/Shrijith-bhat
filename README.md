@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shrijith-bhat, (Srijith S Bhat, in records).
-- 👀 I’m interested in Internet of Things, Java programming and VLSI fields.
+- 👀 I’m interested in Internet of Things, Java programming, Front end development and VLSI fields.
 - 🌱 I’m currently persuing B.E in Electronics & Communication at NIE Institute of Technology, Mysuru, India.
 - 💞️ I’m looking to collaborate on IoT, Java development, front end development and VLSI hand-on projects which helps me to learn more on those fields.
 - 📫 How to reach me: LinkedIn: //shrijith-bhat-813823214 ; Instagram: //shrijith_05 ; 
