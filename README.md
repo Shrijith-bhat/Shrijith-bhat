@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrijith-bhat, (Srijith S Bhat, in records).
-- 👀 I’m interested in Internet of Things, Python, Java, Front end development and VLSI fields.
-- 🌱 I’m currently working as a Software developer
-- 💞️ I’m looking to collaborate on Java and Python development, front end development projects which helps me to learn more on those fields.
+- 👀 I am working with Python, Flask, Docker, Podman, Jenkins, C++ and others.
+- 🌱 I’m currently working as a Software Developer.
+- 💞️ I’m looking to collaborate on Java and Python development projects.
 - 📫 How to reach me: LinkedIn: //shrijith-bhat ; Instagram: //shrijith_05 ; 
 
 <!---
