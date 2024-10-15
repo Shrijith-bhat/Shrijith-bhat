@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Shrijith-bhat, (Srijith S Bhat, in records).
-- 👀 I am working with Python, Flask, Docker, Podman, Jenkins, C++ and others.
-- 🌱 I’m currently working as a Software Developer.
-- 💞️ I’m looking to collaborate on Java and Python development projects.
-- 📫 How to reach me: LinkedIn: //shrijith-bhat ; Instagram: //shrijith_05 ; 
+- I am Shrijith Bhat, Software Developer.
+  
+- Skills I gained so far:
+    Python | GenAI | Flask | Docker | Podman | Jenkins | C++ | ...
+  
+- Looking to collaborate on projects related to:
+    Java | Python | DBMS | GenAI | Jenkins | Docker
+  
+- Reach me here:
+    LinkedIn: linkedin.com/in/shrijith-bhat/
+    Gmail: shrijithbhat@gmail.com
 
 <!---
 Shrijith-bhat/Shrijith-bhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
